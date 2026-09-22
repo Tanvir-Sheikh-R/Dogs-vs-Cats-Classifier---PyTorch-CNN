@@ -3,6 +3,9 @@
 A custom Convolutional Neural Network (CNN) built from scratch using PyTorch to classify images of dogs and cats. Achieved **~93% validation accuracy** on the Kaggle Dogs vs Cats dataset.
 
 ---
+## Demo
+
+![Project demo](assets/demo.gif)
 
 ## 📁 Dataset
 
